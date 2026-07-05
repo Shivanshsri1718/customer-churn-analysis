@@ -41,4 +41,10 @@ End-to-end analysis of telecom customer churn using Databricks SQL, MySQL, Power
 | window_function.sql | Window function query |
 
 ## Dashboard Preview
-*Power BI dashboard screenshots coming soon*
+## Dashboard Preview
+
+### Overview Page
+![Overview](overview.png)
+
+### Deep Dive Page
+![Deep Dive](deepdive_dashboard.png)
